@@ -8,3 +8,43 @@
 #float-right {
   float:right;
 }
+.bg-success {
+  padding: 10px;
+}
+.bg-info {
+  padding: 4px;
+}
+
+.blue-header {
+  background-color: #cedff2;
+  border-radius: 1px;
+  margin: 10px;
+  padding: 4px;
+}
+.green-header {
+  background-color: #a3bfb1;
+  border-radius: 1px;
+  padding: 4px;
+}
+
+.pic-info {
+  background-color: #faf5ff;
+  margin:10px;
+  padding: 4px;
+}
+
+.purple-header {
+  background-color: #afa3bf;
+  padding: 4px;
+}
+h3 {
+  font-size: 12px;
+}
+
+.logo {
+  width: 120px;
+  height: auto;
+}
+.side-bar {
+  font-size: 12px;
+}
